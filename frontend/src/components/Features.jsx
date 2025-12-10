@@ -79,7 +79,6 @@ export function Features() {
   const shouldAnimate = useShouldAnimate();
 
   const fadeUpVariants = getVariants(variants.fadeUp, shouldAnimate);
-  const fadeVariants = getVariants(variants.fade, shouldAnimate);
   const containerVariants = shouldAnimate ? staggerContainer : {};
 
   return (
