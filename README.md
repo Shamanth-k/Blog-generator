@@ -57,7 +57,7 @@ cp backend/.env.example backend/.env
 Edit `backend/.env` and set your HuggingFace API key:
 
 ```
-HUGGINGFACE_API_KEY=hf_your_api_key_here
+HUGGINGFACE_API_KEY=your_huggingface_api_key
 ```
 
 See [Environment Variables](#environment-variables) for all configuration options.
