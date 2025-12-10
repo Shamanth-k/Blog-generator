@@ -175,8 +175,8 @@ function App() {
 
       <footer className="footer">
         <p>
-          Built with ❤️ using React & Mistral AI | 
-          <a href="https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1" target="_blank" rel="noopener noreferrer"> Learn about Mixtral</a>
+          Built By shamanth-k | 
+          <a href="https://github.com/Shamanth-k" target="_blank" rel="noopener noreferrer"> github</a>
         </p>
       </footer>
     </div>
