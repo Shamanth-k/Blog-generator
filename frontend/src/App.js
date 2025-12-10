@@ -79,7 +79,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>✨ AI Blog Generator</h1>
+        <h1> AI Blog Generator</h1>
         <p>Transform your ideas into compelling blog posts instantly</p>
         <span className="model-badge">Powered by Qwen2.5-72B-Instruct</span>
       </header>
