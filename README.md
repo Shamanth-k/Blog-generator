@@ -249,14 +249,3 @@ frontend/src/
 | [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) | Contribution guidelines |
 | [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) | Deployment instructions |
 
-## License
-
-MIT
-3. Write/update tests
-4. Submit PR with meaningful description
-
-See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
-
-## License
-
-MIT
