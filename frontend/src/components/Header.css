@@ -1,0 +1,41 @@
+.header {
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+  padding: 2rem 1rem;
+  text-align: center;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.header__title {
+  color: white;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem;
+  font-family: 'Playfair Display', serif;
+}
+
+.header__subtitle {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.header__badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .header__title {
+    font-size: 1.75rem;
+  }
+
+  .header__subtitle {
+    font-size: 1rem;
+  }
+}

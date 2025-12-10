@@ -1,0 +1,9 @@
+{
+  "name": "@blog-generator/shared",
+  "version": "1.0.0",
+  "description": "Shared types, DTOs, and constants",
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ]
+}
