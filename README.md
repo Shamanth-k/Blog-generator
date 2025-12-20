@@ -240,12 +240,4 @@ frontend/src/
     └── global.css               # Global styles
 ```
 
-## Documentation
-
-| Document | Description |
-|----------|-------------|
-| [docs/API.md](docs/API.md) | Complete API reference |
-| [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Architecture diagrams and decisions |
-| [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) | Contribution guidelines |
-| [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md) | Deployment instructions |
 
